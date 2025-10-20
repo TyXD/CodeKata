@@ -1,6 +1,6 @@
 #include <string>
 #include <vector>
-#include <cctype>
+
 using namespace std;
 
 string solution(string s) {
